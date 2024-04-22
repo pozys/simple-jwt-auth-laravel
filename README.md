@@ -6,6 +6,8 @@
 -   Composer
 -   SQLite
 
+Проверить зависимости PHP можно командой `composer check-platform-reqs`
+
 ## Установка
 
 ```sh
